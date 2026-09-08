@@ -16,9 +16,9 @@
       "folder": "1971Agent-WebPage-BasicSlotPanel",
       "name": "1971 基础槽位面板",
       "id": "1971agent-basicslot",
-      "pkg": "@cheeco/1971Agent-WebPage-BasicSlotPanel",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper",
-      "version": "0.1.0"
+      "pkg": "@1971/1971Agent-WebPage-BasicSlotPanel",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-basicslot-0.1.6/1971-1971Agent-WebPage-BasicSlotPanel-0.1.6.tgz",
+      "version": "0.1.6"
     },
     {
       "folder": "1971Agent-WebPage-PluginPush",
