@@ -13,20 +13,28 @@
   ],
   "plugins": [
     {
-      "folder": "1971Agent-WebPage-BasicSlotPanel",
       "name": "1971 基础槽位面板",
-      "id": "1971agent-basicslot",
-      "pkg": "@1971/1971Agent-WebPage-BasicSlotPanel",
       "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-basicslot-0.1.6/1971-1971Agent-WebPage-BasicSlotPanel-0.1.6.tgz",
-      "version": "0.1.6"
+      "folder": "1971Agent-WebPage-BasicSlotPanel",
+      "version": "0.1.6",
+      "id": "1971agent-basicslot",
+      "pkg": "@1971/1971Agent-WebPage-BasicSlotPanel"
     },
     {
-      "folder": "1971Agent-WebPage-PluginPush",
       "name": "1971Agent 功能推荐",
-      "id": "1971agent-pluginpush",
-      "pkg": "@cheeco/1971Agent-WebPage-PluginPush",
       "url": "https://github.com/cheeco-feng/1971AgentHelper",
-      "version": "0.1.0"
+      "folder": "1971Agent-WebPage-PluginPush",
+      "version": "0.1.0",
+      "id": "1971agent-pluginpush",
+      "pkg": "@cheeco/1971Agent-WebPage-PluginPush"
+    },
+    {
+      "name": "1971Agent 插件沙箱助手",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginsupport-0.1.0/1971-1971Agent-Tools-pluginSupport-0.1.0.tgz",
+      "folder": "1971Agent-Tools-pluginSupport",
+      "version": "0.1.0",
+      "id": "1971agent-pluginsupport",
+      "pkg": "@1971/1971Agent-Tools-pluginSupport"
     }
   ],
   "updatedAt": "2026-09-08"
