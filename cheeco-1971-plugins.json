@@ -1,16 +1,5 @@
 {
-  "official": [
-    {
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "name": "DeepSeek Harness（官方主程序）",
-      "id": "dsh-main"
-    },
-    {
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "name": "DSH Web 官方网页版",
-      "id": "dsh-web"
-    }
-  ],
+  "updatedAt": "2026-09-09",
   "plugins": [
     {
       "pkg": "@1971/1971Agent-WebPage-BasicSlotPanel",
@@ -72,8 +61,8 @@
       "pkg": "@1971/1971Agent-tool-PluginManager",
       "name": "1971Agent 插件安装与管理",
       "folder": "1971Agent-tool-PluginManager",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-pluginmanager-0.1.0/1971-1971Agent-tool-PluginManager-0.1.0.tgz",
-      "version": "0.1.0",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-pluginmanager-0.1.1/1971-1971Agent-tool-PluginManager-0.1.1.tgz",
+      "version": "0.1.1",
       "id": "1971agent-tool-pluginmanager"
     },
     {
@@ -125,5 +114,16 @@
       "name": "1971Agent 私聊通道"
     }
   ],
-  "updatedAt": "2026-09-09"
+  "official": [
+    {
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "name": "DeepSeek Harness（官方主程序）",
+      "id": "dsh-main"
+    },
+    {
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "name": "DSH Web 官方网页版",
+      "id": "dsh-web"
+    }
+  ]
 }
