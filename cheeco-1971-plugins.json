@@ -1,41 +1,41 @@
 {
-  "official": [
-    {
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "name": "DeepSeek Harness（官方主程序）",
-      "id": "dsh-main"
-    },
-    {
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "name": "DSH Web 官方网页版",
-      "id": "dsh-web"
-    }
-  ],
   "updatedAt": "2026-09-08",
   "plugins": [
     {
-      "version": "0.1.6",
-      "folder": "1971Agent-WebPage-BasicSlotPanel",
       "pkg": "@1971/1971Agent-WebPage-BasicSlotPanel",
       "name": "1971 基础槽位面板",
-      "id": "1971agent-basicslot",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-basicslot-0.1.6/1971-1971Agent-WebPage-BasicSlotPanel-0.1.6.tgz"
+      "folder": "1971Agent-WebPage-BasicSlotPanel",
+      "version": "0.1.7",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-basicslot-0.1.7/1971-1971Agent-WebPage-BasicSlotPanel-0.1.7.tgz",
+      "id": "1971agent-basicslot"
     },
     {
-      "version": "0.1.1",
-      "folder": "1971Agent-WebPage-PluginPush",
       "pkg": "@1971/1971Agent-WebPage-PluginPush",
       "name": "1971Agent 功能推荐",
-      "id": "1971agent-pluginpush",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginpush-0.1.1/1971-1971Agent-WebPage-PluginPush-0.1.1.tgz"
+      "folder": "1971Agent-WebPage-PluginPush",
+      "version": "0.1.1",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginpush-0.1.1/1971-1971Agent-WebPage-PluginPush-0.1.1.tgz",
+      "id": "1971agent-pluginpush"
     },
     {
-      "version": "0.1.0",
-      "folder": "1971Agent-Tools-pluginSupport",
       "pkg": "@1971/1971Agent-Tools-pluginSupport",
       "name": "1971Agent 插件沙箱助手",
-      "id": "1971agent-pluginsupport",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginsupport-0.1.0/1971-1971Agent-Tools-pluginSupport-0.1.0.tgz"
+      "folder": "1971Agent-Tools-pluginSupport",
+      "version": "0.1.5",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginsupport-0.1.5/1971-1971Agent-Tools-pluginSupport-0.1.5.tgz",
+      "id": "1971agent-pluginsupport"
+    }
+  ],
+  "official": [
+    {
+      "name": "DeepSeek Harness（官方主程序）",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "id": "dsh-main"
+    },
+    {
+      "name": "DSH Web 官方网页版",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "id": "dsh-web"
     }
   ]
 }
