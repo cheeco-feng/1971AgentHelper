@@ -1,5 +1,4 @@
 {
-  "updatedAt": "2026-09-08",
   "official": [
     {
       "url": "https://github.com/deepseek-ai/deepseek-harness",
@@ -100,6 +99,31 @@
       "folder": "1971Agent-tool-SchedulePanel",
       "version": "0.1.0",
       "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-schedulepanel-0.1.0/1971-1971Agent-tool-SchedulePanel-0.1.0.tgz"
+    },
+    {
+      "id": "1971agent-patch-mobilepanel",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-patch-mobilepanel-0.1.0/1971-1971Agent-patch-MobilePanel-0.1.0.tgz",
+      "folder": "1971Agent-patch-MobilePanel",
+      "pkg": "@1971/1971Agent-patch-MobilePanel",
+      "version": "0.1.0",
+      "name": "1971Agent 移动面版适配"
+    },
+    {
+      "id": "1971agent-frame-paramroute",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-frame-paramroute-0.1.0/1971-1971Agent-frame-ParamRoute-0.1.0.tgz",
+      "folder": "1971Agent-frame-ParamRoute",
+      "pkg": "@1971/1971Agent-frame-ParamRoute",
+      "version": "0.1.0",
+      "name": "1971Agent 参数路由框架"
+    },
+    {
+      "id": "1971agent-page-webgatechat",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-page-webgatechat-0.1.0/1971-1971Agent-page-WebGateChat-0.1.0.tgz",
+      "folder": "1971Agent-page-WebGateChat",
+      "pkg": "@1971/1971Agent-page-WebGateChat",
+      "version": "0.1.0",
+      "name": "1971Agent 私聊通道"
     }
-  ]
+  ],
+  "updatedAt": "2026-09-09"
 }
