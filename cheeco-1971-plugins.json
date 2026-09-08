@@ -92,6 +92,14 @@
       "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-taskstatus-0.1.0/1971-1971Agent-tool-TaskStatus-0.1.0.tgz",
       "version": "0.1.0",
       "id": "1971agent-tool-taskstatus"
+    },
+    {
+      "id": "1971agent-tool-schedulepanel",
+      "name": "1971Agent 多AI调度执行面板",
+      "pkg": "@1971/1971Agent-tool-SchedulePanel",
+      "folder": "1971Agent-tool-SchedulePanel",
+      "version": "0.1.0",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-schedulepanel-0.1.0/1971-1971Agent-tool-SchedulePanel-0.1.0.tgz"
     }
   ]
 }
