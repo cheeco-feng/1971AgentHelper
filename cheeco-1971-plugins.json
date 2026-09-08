@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    {
+      "folder": "dsh-web-ui-1971Slot-Panel",
+      "pkg": "@cheeco/dsh-web-ui-1971Slot-Panel",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper",
+      "version": "0.1.0",
+      "id": "1971slot",
+      "name": "1971 槽位窗口管理面板"
+    }
+  ],
+  "updatedAt": "2026-09-08",
+  "official": [
+    {
+      "id": "dsh-main",
+      "name": "DeepSeek Harness（官方主程序）",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "id": "dsh-web",
+      "name": "DSH Web 官方网页版",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    }
+  ]
+}
