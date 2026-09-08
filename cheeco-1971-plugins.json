@@ -2,80 +2,96 @@
   "updatedAt": "2026-09-08",
   "official": [
     {
-      "id": "dsh-main",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
       "name": "DeepSeek Harness（官方主程序）",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
+      "id": "dsh-main"
     },
     {
-      "id": "dsh-web",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
       "name": "DSH Web 官方网页版",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
+      "id": "dsh-web"
     }
   ],
   "plugins": [
     {
-      "folder": "1971Agent-WebPage-BasicSlotPanel",
-      "version": "0.1.7",
-      "id": "1971agent-basicslot",
-      "name": "1971 基础槽位面板",
       "pkg": "@1971/1971Agent-WebPage-BasicSlotPanel",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-basicslot-0.1.7/1971-1971Agent-WebPage-BasicSlotPanel-0.1.7.tgz"
+      "name": "1971 基础槽位面板",
+      "folder": "1971Agent-WebPage-BasicSlotPanel",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-basicslot-0.1.9/1971-1971Agent-WebPage-BasicSlotPanel-0.1.9.tgz",
+      "version": "0.1.9",
+      "id": "1971agent-basicslot"
     },
     {
-      "folder": "1971Agent-WebPage-PluginPush",
-      "version": "0.1.1",
-      "id": "1971agent-pluginpush",
-      "name": "1971Agent 功能推荐",
       "pkg": "@1971/1971Agent-WebPage-PluginPush",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginpush-0.1.1/1971-1971Agent-WebPage-PluginPush-0.1.1.tgz"
+      "name": "1971Agent 功能推荐",
+      "folder": "1971Agent-WebPage-PluginPush",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginpush-0.1.2/1971-1971Agent-WebPage-PluginPush-0.1.2.tgz",
+      "version": "0.1.2",
+      "id": "1971agent-pluginpush"
     },
     {
-      "folder": "1971Agent-Tools-pluginSupport",
-      "version": "0.1.5",
-      "id": "1971agent-pluginsupport",
-      "name": "1971Agent 插件沙箱助手",
       "pkg": "@1971/1971Agent-Tools-pluginSupport",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginsupport-0.1.5/1971-1971Agent-Tools-pluginSupport-0.1.5.tgz"
+      "name": "1971Agent 插件沙箱助手",
+      "folder": "1971Agent-Tools-pluginSupport",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-pluginsupport-0.1.5/1971-1971Agent-Tools-pluginSupport-0.1.5.tgz",
+      "version": "0.1.5",
+      "id": "1971agent-pluginsupport"
     },
     {
-      "folder": "1971Agent-Setting-BrandPanel",
-      "version": "0.1.0",
-      "id": "1971agent-setting-brandpanel",
-      "name": "1971Agent 品牌管理",
       "pkg": "@1971/1971Agent-Setting-BrandPanel",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-brandpanel-0.1.0/1971-1971Agent-Setting-BrandPanel-0.1.0.tgz"
+      "name": "1971Agent 品牌管理",
+      "folder": "1971Agent-Setting-BrandPanel",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-brandpanel-0.1.0/1971-1971Agent-Setting-BrandPanel-0.1.0.tgz",
+      "version": "0.1.0",
+      "id": "1971agent-setting-brandpanel"
     },
     {
-      "folder": "1971Agent-Setting-MessageSound",
-      "version": "0.1.0",
-      "id": "1971agent-setting-messagesound",
-      "name": "1971Agent 声音管理",
       "pkg": "@1971/1971Agent-Setting-MessageSound",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-messagesound-0.1.0/1971-1971Agent-Setting-MessageSound-0.1.0.tgz"
+      "name": "1971Agent 声音管理",
+      "folder": "1971Agent-Setting-MessageSound",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-messagesound-0.1.0/1971-1971Agent-Setting-MessageSound-0.1.0.tgz",
+      "version": "0.1.0",
+      "id": "1971agent-setting-messagesound"
     },
     {
-      "folder": "1971Agent-Setting-ProfilesManage",
-      "version": "0.1.0",
-      "id": "1971agent-setting-profilesmanage",
-      "name": "1971Agent 实例管理",
       "pkg": "@1971/1971Agent-Setting-ProfilesManage",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-profilesmanage-0.1.0/1971-1971Agent-Setting-ProfilesManage-0.1.0.tgz"
+      "name": "1971Agent 实例管理",
+      "folder": "1971Agent-Setting-ProfilesManage",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-profilesmanage-0.1.0/1971-1971Agent-Setting-ProfilesManage-0.1.0.tgz",
+      "version": "0.1.0",
+      "id": "1971agent-setting-profilesmanage"
     },
     {
-      "folder": "1971Agent-Setting-ModelSettings",
-      "version": "0.1.0",
-      "id": "1971agent-setting-modelsettings",
-      "name": "1971Agent 模型参数设置",
       "pkg": "@1971/1971Agent-Setting-ModelSettings",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-modelsettings-0.1.0/1971-1971Agent-Setting-ModelSettings-0.1.0.tgz"
+      "name": "1971Agent 模型参数设置",
+      "folder": "1971Agent-Setting-ModelSettings",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-setting-modelsettings-0.1.0/1971-1971Agent-Setting-ModelSettings-0.1.0.tgz",
+      "version": "0.1.0",
+      "id": "1971agent-setting-modelsettings"
     },
     {
-      "folder": "1971Agent-tool-PluginManager",
-      "version": "0.1.0",
-      "id": "1971agent-tool-pluginmanager",
-      "name": "1971Agent 插件安装与管理",
       "pkg": "@1971/1971Agent-tool-PluginManager",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-pluginmanager-0.1.0/1971-1971Agent-tool-PluginManager-0.1.0.tgz"
+      "name": "1971Agent 插件安装与管理",
+      "folder": "1971Agent-tool-PluginManager",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-pluginmanager-0.1.0/1971-1971Agent-tool-PluginManager-0.1.0.tgz",
+      "version": "0.1.0",
+      "id": "1971agent-tool-pluginmanager"
+    },
+    {
+      "pkg": "@1971/1971Agent-tool-CmdWatch",
+      "name": "1971Agent 前台进程管理",
+      "folder": "1971Agent-tool-CmdWatch",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-cmdwatch-0.1.0/1971-1971Agent-tool-CmdWatch-0.1.0.tgz",
+      "version": "0.1.0",
+      "id": "1971agent-tool-cmdwatch"
+    },
+    {
+      "pkg": "@1971/1971Agent-tool-TaskStatus",
+      "name": "1971Agent 后台任务管理",
+      "folder": "1971Agent-tool-TaskStatus",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-taskstatus-0.1.0/1971-1971Agent-tool-TaskStatus-0.1.0.tgz",
+      "version": "0.1.0",
+      "id": "1971agent-tool-taskstatus"
     }
   ]
 }
