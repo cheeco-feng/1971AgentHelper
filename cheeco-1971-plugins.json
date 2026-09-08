@@ -1,25 +1,33 @@
 {
+  "official": [
+    {
+      "name": "DeepSeek Harness（官方主程序）",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "id": "dsh-main"
+    },
+    {
+      "name": "DSH Web 官方网页版",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "id": "dsh-web"
+    }
+  ],
   "plugins": [
     {
       "folder": "1971Agent-WebPage-BasicSlotPanel",
       "name": "1971 基础槽位面板",
-      "url": "https://github.com/cheeco-feng/1971AgentHelper",
       "id": "1971agent-basicslot",
       "pkg": "@cheeco/1971Agent-WebPage-BasicSlotPanel",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper",
+      "version": "0.1.0"
+    },
+    {
+      "folder": "1971Agent-WebPage-PluginPush",
+      "name": "1971Agent 功能推荐",
+      "id": "1971agent-pluginpush",
+      "pkg": "@cheeco/1971Agent-WebPage-PluginPush",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper",
       "version": "0.1.0"
     }
   ],
-  "updatedAt": "2026-09-08",
-  "official": [
-    {
-      "name": "DeepSeek Harness（官方主程序）",
-      "id": "dsh-main",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
-    },
-    {
-      "name": "DSH Web 官方网页版",
-      "id": "dsh-web",
-      "url": "https://github.com/deepseek-ai/deepseek-harness"
-    }
-  ]
+  "updatedAt": "2026-09-08"
 }
