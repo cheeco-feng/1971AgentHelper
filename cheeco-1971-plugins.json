@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "plugins": [
     {
       "pkg": "@1971/1971Agent-WebPage-BasicSlotPanel",
@@ -88,6 +88,14 @@
       "folder": "1971Agent-tool-SchedulePanel",
       "version": "0.1.0",
       "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-schedulepanel-0.1.0/1971-1971Agent-tool-SchedulePanel-0.1.0.tgz"
+    },
+    {
+      "pkg": "@1971/1971Agent-tool-CodeCheckPoints",
+      "name": "1971Agent 文件标记与撤回助手",
+      "folder": "1971Agent-tool-CodeCheckPoints",
+      "url": "https://github.com/cheeco-feng/1971AgentHelper/releases/download/v1971agent-tool-codecheckpoints-0.2.0/1971-1971Agent-tool-CodeCheckPoints-0.2.0.tgz",
+      "version": "0.2.0",
+      "id": "1971agent-tool-codecheckpoints"
     },
     {
       "id": "1971agent-patch-mobilepanel",
